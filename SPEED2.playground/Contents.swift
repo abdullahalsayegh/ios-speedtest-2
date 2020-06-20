@@ -1,4 +1,4 @@
-
+https://us02web.zoom.us/j/85441593779?pwd=eFkxc3R4WWhjQ3plN2xMQnNlWkpadz09
 /*:
  # تمرين سريع ٢
  
@@ -17,3 +17,4 @@ let name = "أحمد"
 */
 // انسخ و الصق اجابتك هنا
 
+var name = "أحمد"
